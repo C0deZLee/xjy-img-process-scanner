@@ -51,7 +51,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "child_process": "^1.0.2",
     "chokidar": "^3.3.1",
     "form-data": "^3.0.0",
